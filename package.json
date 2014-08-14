@@ -1,0 +1,25 @@
+{
+  "name": "libs-linkdelta",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "mongoose": "^3.8.14",
+    "request": "^2.40.0",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonZhu1981/libs-linkdelta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonZhu1981/libs-linkdelta/issues"
+  },
+  "homepage": "https://github.com/LeonZhu1981/libs-linkdelta"
+}
