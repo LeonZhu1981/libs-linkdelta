@@ -1,0 +1,24 @@
+[
+    {
+        "url": "http://www.npr.org/rss/podcast.php?id=35",
+        "title": "NPR Programs Podcast",
+        "description": "NPR Programs: Wait Wait... Don't Tell Me! Podcast",
+        "source": "itunes",
+        "catalog": "podcast",
+        "status": "init",
+        "status_comment": "init, succeeded, failed",
+        "inDate": "2014/08/14",
+        "lastEditDate": "2014/08/14"
+    },
+    {
+        "url": "http://www.npr.org/rss/podcast.php?id=35",
+        "title": "This American Life",
+        "description": "This American Life Podcast",
+        "source": "itunes",
+        "catalog": "podcast",
+        "status": "init",
+        "status_comment": "init, succeeded, failed",
+        "inDate": "2014/08/14",
+        "lastEditDate": "2014/08/14"
+    }
+]
