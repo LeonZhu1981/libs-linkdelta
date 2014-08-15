@@ -1,0 +1,156 @@
+[
+    {
+        "channel": {
+            "uniqueID": "68ca2636-c587-4881-8951-361358e8e60f",
+            "source": "itunes",
+            "inDate": "2014/08/12",
+            "lastEditDate": "2014/08/12",
+            "isProcessed": true,
+            "log":"",
+            "feedUrl": "http://www.npr.org/rss/podcast.php?id=35",
+            "title": "NPR Programs Podcast",
+            "link": "http://www.npr.org/templates/rundowns/rundown.php?prgId=35",
+            "copyright": "Copyright 2007 NPR - For Personal Use Only",
+            "block": "yes",
+            "category" : [
+                "Games & Hobbies",
+                "Comedy"
+            ],
+            "image": [
+                "http://media.npr.org/images/podcasts/2013/primary/wait_wait.jpg",
+                "http://media.npr.org/images/podcasts/2013/primary/wait_wait_340.jpg"
+            ],
+            "explicit": "no",
+            "complete": "no",
+            "newFeedUrl": "",
+            "owner": {
+                "email": "",
+                "name": ""
+            },
+            "subtitle": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.",
+            "summary": "NPR\'s weekly current events quiz.  Have a laugh and test your news knowledge while figuring out what\'s real and what we\'ve made up.",
+            "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.",
+            "language": "en-US",
+            "items": [
+                {
+                    "uniqueID": "5075cd5e-9eb5-48b1-ba55-567a8bc9103d",
+                    "inDate": "2014/08/12",
+                    "lastEditDate": "2014/08/12",
+                    "status": "init",
+                    "log": "",
+                    "title": "NPR: 08-09-2014 Wait Wait... Don't Tell Me!",
+                    "author": "NRP",
+                    "subtitle": "Stories: 1) Jim Bouton Plays Not My Job 2) Randy Sprecher Plays Not My Job 3) Gillian Flynn Plays Not My Job 4) John Waters Plays Not My Job 5) Roseanne Cash Plays Not My Job",
+                    "summary": "Stories: 1) Jim Bouton Plays Not My Job 2) Randy Sprecher Plays Not My Job 3) Gillian Flynn Plays Not My Job 4) John Waters Plays Not My Job 5) Roseanne Cash Plays Not My Job",
+                    "image": [
+                        "http://media.npr.org/images/podcasts/2013/primary/wait_wait.jpg",
+                        "http://media.npr.org/images/podcasts/2013/primary/wait_wait_340.jpg"
+                    ],
+                    "enclosure": {
+                        "url": "http://podcastdownload.npr.org/anon.npr-podcasts/podcast/35/339174027/npr_339174027.mp3",
+                        "length": "23259522",
+                        "type": "audio/mpeg"
+                    },
+                    "guid": "http://podcastdownload.npr.org/anon.npr-podcasts/podcast/35/339174027/npr_339174027.mp3",
+                    "pubDate": "2014/08/16",
+                    "duration": "48:23",
+                    "explicit": "no",
+                    "isClosedCaptioned": "no",
+                    "block": "no",
+                    "order": "1",
+                    "keywords": "NPR,NPR,Wait Wait Don t Tell Me,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air"
+                },
+                {
+                    "uniqueID": "a83cfa63-43db-4c89-bed9-567b06e82d1d",
+                    "inDate": "2014/08/12",
+                    "lastEditDate": "2014/08/12",
+                    "status": "init",
+                    "log": "",
+                    "title": "NPR: 08-02-2014 Wait Wait... Don't Tell Me!",
+                    "author": "NRP",
+                    "subtitle": "Stories: 1) Who's Bill This Time 2) Panel Round One 3) Bluff The Listener 4) Not My Job: We Quiz Novelist Amy Tan On Tanning Techniques 5) Panel Round Two 6) Limericks 7) Lightning Fill In The Blank 8) Prediction",
+                    "summary": "Stories: 1) Who's Bill This Time 2) Panel Round One 3) Bluff The Listener 4) Not My Job: We Quiz Novelist Amy Tan On Tanning Techniques 5) Panel Round Two 6) Limericks 7) Lightning Fill In The Blank 8) Prediction",
+                    "image": [
+                        "http://media.npr.org/images/podcasts/2013/primary/wait_wait.jpg",
+                        "http://media.npr.org/images/podcasts/2013/primary/wait_wait_340.jpg"
+                    ],
+                    "enclosure": {
+                        "url": "http://podcastdownload.npr.org/anon.npr-podcasts/podcast/35/337401884/npr_337401884.mp3",
+                        "length": "23442761",
+                        "type": "audio/mpeg"
+                    },
+                    "guid": "http://podcastdownload.npr.org/anon.npr-podcasts/podcast/35/339174027/npr_339174027.mp3",
+                    "pubDate": "2014/08/16",
+                    "duration": "48:46",
+                    "explicit": "no",
+                    "isClosedCaptioned": "no",
+                    "block": "no",
+                    "order": "2",
+                    "keywords": "NPR,NPR,Wait Wait Don t Tell Me,Washington,District of Columbia,Morning Edition,All Things Considered,Fresh Air"
+                }
+            ]
+        }
+    },
+    {
+        "channel": {
+            "uniqueID": "bd6e8f1f-570b-4b24-8cc7-3dbd9f5de3e4",
+            "source": "itunes",
+            "inDate": "2014/08/13",
+            "lastEditDate": "2014/08/13",
+            "isProcessed": false,
+            "log":"",
+            "feedUrl": "http://feeds.thisamericanlife.org/talpodcast",
+            "title": "This American Life",
+            "link": "http://www.thisamericanlife.org",
+            "copyright": "Copyright 1995-2013 Chicago Public Media & Ira Glass",
+            "block": "no",
+            "category" : [
+                "Society & Culture",
+                "Comedy"
+            ],
+            "image": [
+                "http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg"
+            ],
+            "explicit": "no",
+            "complete": "no",
+            "newFeedUrl": "",
+            "owner": {
+                "email": "",
+                "name": ""
+            },
+            "subtitle": "Official free, weekly podcast of the award-winning radio show 'This American Life.' First-person stories and short fiction pieces that are touching, funny, and surprising. Hosted by Ira Glass, from WBEZ Chicago Public Media, and distributed by Public Radi.",
+            "summary": "Official free, weekly podcast of the award-winning radio show 'This American Life.' First-person stories and short fiction pieces that are touching, funny, and surprising. Hosted by Ira Glass, from WBEZ Chicago Public Media, and distributed by Public Radi.",
+            "description": "Official free, weekly podcast of the award-winning radio show 'This American Life.' First-person stories and short fiction pieces that are touching, funny, and surprising. Hosted by Ira Glass, from WBEZ Chicago Public Media, and distributed by Public Radi.",
+            "language": "en-US",
+            "items": [
+                {
+                    "uniqueID": "ccc2b8cc-e1c6-4a52-8ce6-0c9aa436c416",
+                    "inDate": "2014/08/13",
+                    "lastEditDate": "2014/08/13",
+                    "status": "init",
+                    "log": "",
+                    "title": "#245: Allure of the Mean Friend",
+                    "author": "Chicago Public Media",
+                    "subtitle": "What is it about them, our mean friends? They treat us badly, they don\'t call us back, they cancel plans at the last minute, and yet we come back for more. Popular bullies exist in business, politics, everywhere. How do they stay so popular? ",
+                    "summary": "What is it about them, our mean friends? They treat us badly, they don\'t call us back, they cancel plans at the last minute, and yet we come back for more. Popular bullies exist in business, politics, everywhere. How do they stay so popular? ",
+                    "image": [
+                        "http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg"
+                    ],
+                    "enclosure": {
+                        "url": "http://feeds.thisamericanlife.org/~r/talpodcast/~5/e86p-fZqFkU/245.mp3",
+                        "length": "0",
+                        "type": "audio/mpeg"
+                    },
+                    "guid": "2819 at http://www.thisamericanlife.org",
+                    "pubDate": "Mon, 11 Aug 2014 00:00:00 +0000",
+                    "duration": "",
+                    "explicit": "no",
+                    "isClosedCaptioned": "no",
+                    "block": "no",
+                    "order": "1",
+                    "keywords": ""
+                }
+            ]
+        }
+    }
+]

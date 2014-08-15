@@ -6,9 +6,9 @@
         "source": "itunes",
         "catalog": "podcast",
         "status": "init",
-        "status_comment": "init, succeeded, failed",
         "inDate": "2014/08/14",
-        "lastEditDate": "2014/08/14"
+        "lastEditDate": "2014/08/14",
+        "priority": 0
     },
     {
         "url": "http://www.npr.org/rss/podcast.php?id=35",
@@ -17,8 +17,8 @@
         "source": "itunes",
         "catalog": "podcast",
         "status": "init",
-        "status_comment": "init, succeeded, failed",
         "inDate": "2014/08/14",
-        "lastEditDate": "2014/08/14"
+        "lastEditDate": "2014/08/14",
+        "priority": 1000
     }
 ]
