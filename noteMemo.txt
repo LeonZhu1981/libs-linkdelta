@@ -9,3 +9,6 @@ http://www.apple.com/cn/itunes/podcasts/specs.html#rss
 
 rss 2.0 standard:
 http://cyber.law.harvard.edu/rss/rss.html#ltttlgtSubelementOfLtchannelgt
+
+lookup api:
+https://itunes.apple.com/lookup?id=909253

@@ -1,0 +1,13 @@
+[
+    {
+        "name"        : "crawlerPlatform-job",
+        "script"      : "crawlerPlatform-jobs/app.js",
+        "ignoreWatch" : ["[\\/\\\\]\\./", "node_modules", "logs"],
+        "watch"       : "true",
+        "instances"   : "1",
+        "exec_mode"   : "cluster_mode",
+        "env": {
+            "NODE_ENV": "dev"
+        }
+    }
+]
