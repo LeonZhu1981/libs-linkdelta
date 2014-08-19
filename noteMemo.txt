@@ -9,3 +9,18 @@ http://www.apple.com/cn/itunes/podcasts/specs.html#rss
 
 rss 2.0 standard:
 http://cyber.law.harvard.edu/rss/rss.html#ltttlgtSubelementOfLtchannelgt
+
+apple rss generator:
+https://rss.itunes.apple.com/us/?urlDesc=
+
+get top 200 podcast:
+https://itunes.apple.com/us/rss/toppodcasts/limit=200/explicit=true/json
+
+lookup search api:
+https://itunes.apple.com/lookup?id=201671138
+
+step 1: crawlerTaskRss Scan Job
+调用get top 200 podcast, 比较updated是否比最后一条记录的updated字段大, 如果大于的话, 新写入一条记录(lastUpdated和整个json对象).
+
+step 2: crawleriTunesChannel Scan Job.
+从crawleriTunesRss表当中获取isProcessed为false的记录, updated日期最大的记录. 解析json字段. 根据id去调用itunes lookup api, 不存在则写入, 存在则判断
