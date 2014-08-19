@@ -1,0 +1,33 @@
+{
+    "mongodb": {
+        "url": "mongodb://localhost/linkdelta",
+        "debug": true
+    },
+    "platformUrls": [
+        {
+            "url": "https://itunes.apple.com/us/rss/toppodcasts/limit=200/explicit=true/json",
+            "name": "itunes"
+        },
+        {
+            "url": "https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw/channels",
+            "name": "youtube"
+        }
+    ],
+    "log": {
+        "level": "DEBUG",
+        "appenders": [
+            {
+                "type": "console"
+            },
+            {
+                "type": "dateFile",
+                "pattern": "-yyyy-MM-dd",
+                "filename": "logs/log.log",
+                "alwaysIncludePattern": true
+            }
+        ]
+    },
+    "externalWebApi" : {
+        "ituneLookupApi": "https://itunes.apple.com/lookup?id=[#id]"
+    }
+}

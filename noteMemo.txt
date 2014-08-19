@@ -10,6 +10,7 @@ http://www.apple.com/cn/itunes/podcasts/specs.html#rss
 rss 2.0 standard:
 http://cyber.law.harvard.edu/rss/rss.html#ltttlgtSubelementOfLtchannelgt
 
+<<<<<<< HEAD
 apple rss generator:
 https://rss.itunes.apple.com/us/?urlDesc=
 
@@ -24,3 +25,7 @@ step 1: crawlerTaskRss Scan Job
 
 step 2: crawleriTunesChannel Scan Job.
 从crawleriTunesRss表当中获取isProcessed为false的记录, updated日期最大的记录. 解析json字段. 根据id去调用itunes lookup api, 不存在则写入, 存在则判断
+=======
+lookup api:
+https://itunes.apple.com/lookup?id=909253
+>>>>>>> FETCH_HEAD
